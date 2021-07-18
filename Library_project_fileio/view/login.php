@@ -6,7 +6,7 @@
 	<table height="100%" width="100%">
 		<tr height="20%">
 			<td width="15%">
-				<a href="index.html"><img src="images/online_library.png", height="165px", width="260px"></a>
+				<a href="../index.html"><img src="images/online_library.png", height="165px", width="260px"></a>
 			</td>
 			
 			<td align="center">
